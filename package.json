@@ -1,8 +1,8 @@
 {
-  "name": "Salary-Convert",
+  "name": "Pofolio",
   "version": "0.2.0",
   "private": true,
-  "homepage": "https://TrungXI.github.io/Salary/",
+  "homepage": "https://TrungXI.github.io/Pofolio/",
   "dependencies": {
     "@ant-design/icons": "^5.3.7",
     "@testing-library/jest-dom": "^5.17.0",
